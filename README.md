@@ -23,25 +23,93 @@
 
 ## 🧰 Tech Stack
 
-### Frontend  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)  
+### Frontend
 
-### Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-bottom: 20px;">
 
-### Tools & Design  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
+    <span style="margin-top: 6px; font-weight: 600;">HTML5</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
+    <span style="margin-top: 6px; font-weight: 600;">CSS3</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="48" height="48"/>
+    <span style="margin-top: 6px; font-weight: 600;">SASS</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
+    <span style="margin-top: 6px; font-weight: 600;">JavaScript</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/>
+    <span style="margin-top: 6px; font-weight: 600;">TypeScript</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48"/>
+    <span style="margin-top: 6px; font-weight: 600;">React</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48"/>
+    <span style="margin-top: 6px; font-weight: 600;">Next.js</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="48" height="48"/>
+    <span style="margin-top: 6px; font-weight: 600;">TailwindCSS</span>
+  </div>
+
+</div>
+
+### Backend
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-bottom: 20px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48"/>
+    <span style="margin-top: 6px; font-weight: 600;">Node.js</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48"/>
+    <span style="margin-top: 6px; font-weight: 600;">MongoDB</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="48" height="48"/>
+    <span style="margin-top: 6px; font-weight: 600;">Express.js</span>
+  </div>
+
+</div>
+
+### Tools & Design
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
+    <span style="margin-top: 6px; font-weight: 600;">Git</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
+    <span style="margin-top: 6px; font-weight: 600;">GitHub</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48" height="48"/>
+    <span style="margin-top: 6px; font-weight: 600;">Figma</span>
+  </div>
+
+</div>
 
 ---
 
