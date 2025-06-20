@@ -1,6 +1,6 @@
 # Nazar Koshla — Front-End Developer
 
-### Building modern, performant, and scalable web & mobile apps with React, Next.js & Tailwind CSS
+### Building modern, performant, and scalable web & mobile apps 
 
 ---
 
