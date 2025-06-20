@@ -16,7 +16,7 @@
 ## 🚀 Selected Projects
 
 - [**Web Chat Reale**](https://github.com/NazarKoshla365/web-chat-reale) — A modern real-time chat app with Google authentication and JWT, built with Next.js, Tailwind CSS, Node.js, Socket.io, and MongoDB  
-- [**Mobile Music Player**](https://github.com/NazarKoshla365/music-player-app) — A cross-platform mobile music player with play/pause/jog features, developed using React Native and Expo 
+- [**Mobile Music Player**](https://github.com/NazarKoshla365/music-player-app) — A cross-platform mobile music player with play/pause/jog features, developed using React Native and Expo  
 - [**QR Code Generator**](https://github.com/NazarKoshla365/qr-code-generator) — A responsive and stylish QR code generator made with React and Tailwind CSS  
 
 ---
@@ -33,6 +33,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" alt="React Native" width="48" height="48" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="48" height="48" />
 
@@ -43,8 +44,8 @@
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="48" height="48" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />
 
 </div>
 
