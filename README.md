@@ -15,9 +15,9 @@
 
 ## 🚀 Selected Projects
 
-- [**Web Chat Reale**](https://github.com/NazarKoshla365/web-chat-reale) — A modern real-time chat app with Google authentication and JWT, built with Next.js, Tailwind CSS, Node.js, Socket.io, and MongoDB  
-- [**Mobile Music Player**](https://github.com/NazarKoshla365/music-player-app) — A cross-platform mobile music player with play/pause/jog features, developed using React Native and Expo  
-- [**QR Code Generator**](https://github.com/NazarKoshla365/qr-code-generator) — A responsive and stylish QR code generator made with React and Tailwind CSS  
+- [**Web Chat Reale**](https://github.com/NazarKoshla365/) — A modern real-time chat app with Google authentication and JWT, built with Next.js, Tailwind CSS, Node.js, Socket.io, and MongoDB  
+- [**Mobile Music Player**](https://github.com/NazarKoshla365/music-player-speedy) — A cross-platform mobile music player with play/pause/jog features, developed using React Native and Expo  
+- [**QR Code Generator**](https://github.com/NazarKoshla365/qr-generator) — A responsive and stylish QR code generator made with React and Tailwind CSS  
 
 ---
 
