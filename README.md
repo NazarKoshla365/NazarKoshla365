@@ -64,6 +64,3 @@
 
 ---
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&vCenter=true&multiline=true&width=500&lines=Front-end+Developer;React+%2F+Next.js+Specialist;Building+Modern+Web+%26+Mobile+Apps" alt="Typing SVG" />
-</p>
