@@ -15,9 +15,9 @@
 
 ## 🚀 Selected Projects
 
-- [**Portfolio Website**](https://github.com/NazarKoshla365/portfolio) — Personal portfolio showcasing projects built with React & Tailwind CSS  
-- [**Spotify Clone**](https://github.com/NazarKoshla365/spotify-clone) — Music player inspired by Spotify, built with Next.js and Spotify API  
-- [**Task Manager App**](https://github.com/NazarKoshla365/task-manager) — Full-stack task management tool using Node.js, Express, and MongoDB  
+- [**Web Chat Reale**](https://github.com/NazarKoshla365/web-chat-reale) — A modern real-time chat app with Google authentication and JWT, built with Next.js, Tailwind CSS, Node.js, Socket.io, and MongoDB  
+- [**Mobile Music Player**](https://github.com/NazarKoshla365/music-player-app) — A cross-platform mobile music player with play/pause/jog features, developed using React Native and Expo 
+- [**QR Code Generator**](https://github.com/NazarKoshla365/qr-code-generator) — A responsive and stylish QR code generator made with React and Tailwind CSS  
 
 ---
 
