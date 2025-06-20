@@ -13,7 +13,6 @@ I love turning ideas into clean, functional code and beautiful UIs.
 - 🚀 Passionate about creating performant, accessible, and scalable web applications  
 - 💡 Excited by the constantly evolving front-end ecosystem and new technologies  
 - 🎯 Eager to contribute to impactful projects and constantly improve my skills  
-- 💡 Always curious and eager to learn new technologies and improve my skills
 - 🤝 Open to opportunities, challenges, and collaborations that help me grow and make an impact
 - 🌱 Believe that continuous learning and practice are the keys to success
 - 🎨 Care about user experience and making interfaces that people love to use
