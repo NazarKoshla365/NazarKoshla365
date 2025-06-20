@@ -65,21 +65,12 @@ I love turning ideas into clean, functional code and beautiful UIs.
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced TypeScript  
-- Backend integration with Node.js and Express  
-- Writing automated tests (Jest, React Testing Library)  
-- Deployment workflows (Vercel, Netlify, Heroku)
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: [nazar.koshla.dev@gmail.com](mailto:nazar.koshla.dev@gmail.com)  
 - 🐙 GitHub: [NazarKoshla365](https://github.com/NazarKoshla365)  
 - 🔗 LinkedIn: [linkedin.com/in/nazarkoshla](https://linkedin.com/in/nazarkoshla)  
-- 🐦 Twitter: [@yourtwitter](https://twitter.com/yourtwitter) *(якщо є, або видали цей рядок)*  
+
 
 ---
 
