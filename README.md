@@ -1,4 +1,4 @@
-# ![Shining](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif) Nazar Koshla — Front-End Developer
+#Nazar Koshla — Front-End Developer
 
 *Crafting fast, accessible, and beautiful web experiences*
 
