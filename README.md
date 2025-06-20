@@ -11,6 +11,8 @@
 - 🎯 Passionate about clean, maintainable code and continuous learning  
 - 🌐 Actively seeking internships, freelance projects, and full-time roles to contribute and grow  
 
+![Coding GIF](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+
 ---
 
 ## 🚀 Selected Projects
@@ -18,6 +20,8 @@
 - [**Web Chat Reale**](https://github.com/NazarKoshla365/chat-app-realtime-nextjs) — A modern real-time chat app with Google authentication and JWT, built with Next.js, Tailwind CSS, Node.js, Socket.io, and MongoDB  
 - [**Mobile Music Player**](https://github.com/NazarKoshla365/music-player-speedy) — A cross-platform mobile music player with play/pause/jog features, developed using React Native and Expo  
 - [**QR Code Generator**](https://github.com/NazarKoshla365/qr-generator) — A responsive and stylish QR code generator made with React and Tailwind CSS  
+
+![Projects GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
 
@@ -37,7 +41,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" />
 <img src="https://vitejs.dev/logo.svg" alt="Vite" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="48" />
-
 
 </div>
 
@@ -68,6 +71,8 @@
 - 📧 Email: **nazar.koshla.dev@gmail.com**  
 - 🐙 GitHub: [NazarKoshla365](https://github.com/NazarKoshla365)  
 - 🔗 LinkedIn: [linkedin.com/in/nazarkoshla](https://linkedin.com/in/nazarkoshla)  
+
+![Contact GIF](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)
 
 ---
 
