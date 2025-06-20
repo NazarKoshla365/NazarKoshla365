@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋, I'm Nazar</h1>
-<h3 align="center">🚀 Front-End Developer | React | Next.js | Tailwind | Node.js</h3>
+<h1 align="center">Nazar Koshla</h1>
+<h3 align="center">Front-End Developer specializing in React, Next.js, and Tailwind CSS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&vCenter=true&multiline=true&width=435&lines=Front-end+Developer;React+%2F+Next.js+Specialist;Building+Modern+Web+%26+Mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0366d6&vCenter=true&multiline=true&width=435&lines=Front-End+Developer;React+%26+Next.js+Specialist;Building+Modern+Web+%26+Mobile+Applications" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💻 About Me
+### 💼 About Me
 
-- 🎓 I'm a **17-year-old developer** based in *Reggio Calabria, Italy 🇮🇹*
-- 🛠️ I build **modern, fast, and responsive** web & mobile apps
-- 💼 Open to **every opportunity**
-- 🎯 My goal: from 0 to Spotify
+- 🎓 17-year-old developer based in Reggio Calabria, Italy 🇮🇹  
+- 🛠️ Experienced in building performant, scalable, and responsive web and mobile applications  
+- 🎯 Focused on clean code, usability, and continuous improvement  
+- 🌐 Open to professional opportunities and collaborations  
 
 ---
+
 
 ### 🧰 Tech Stack
 
