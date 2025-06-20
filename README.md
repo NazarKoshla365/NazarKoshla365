@@ -2,9 +2,6 @@
 
 ### Front-End Developer specializing in React, Next.js, and Tailwind CSS
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=0366d6&vCenter=true&multiline=true&width=450&lines=Front-End+Developer;React+%26+Next.js+Specialist;Building+Modern+Web+%26+Mobile+Applications" alt="Typing SVG" />
-</p>
 
 ---
 
