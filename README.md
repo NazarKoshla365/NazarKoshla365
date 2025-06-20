@@ -1,6 +1,6 @@
 # Nazar Koshla — Front-End Developer
 
-### Building modern, performant, and scalable web & mobile apps 
+### Building modern, performant, and scalable web & mobile apps
 
 ---
 
@@ -25,89 +25,36 @@
 
 ### Frontend
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-bottom: 20px;">
+<div align="center">
 
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
-    <span style="margin-top: 6px; font-weight: 600;">HTML5</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
-    <span style="margin-top: 6px; font-weight: 600;">CSS3</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="48" height="48"/>
-    <span style="margin-top: 6px; font-weight: 600;">SASS</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
-    <span style="margin-top: 6px; font-weight: 600;">JavaScript</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/>
-    <span style="margin-top: 6px; font-weight: 600;">TypeScript</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48"/>
-    <span style="margin-top: 6px; font-weight: 600;">React</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48"/>
-    <span style="margin-top: 6px; font-weight: 600;">Next.js</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="48" height="48"/>
-    <span style="margin-top: 6px; font-weight: 600;">TailwindCSS</span>
-  </div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="48" height="48" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="48" height="48" />
 
 </div>
 
 ### Backend
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-bottom: 20px;">
+<div align="center">
 
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48"/>
-    <span style="margin-top: 6px; font-weight: 600;">Node.js</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48"/>
-    <span style="margin-top: 6px; font-weight: 600;">MongoDB</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="48" height="48"/>
-    <span style="margin-top: 6px; font-weight: 600;">Express.js</span>
-  </div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="48" height="48" />
 
 </div>
 
 ### Tools & Design
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+<div align="center">
 
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
-    <span style="margin-top: 6px; font-weight: 600;">Git</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
-    <span style="margin-top: 6px; font-weight: 600;">GitHub</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48" height="48"/>
-    <span style="margin-top: 6px; font-weight: 600;">Figma</span>
-  </div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48" height="48" />
 
 </div>
 
@@ -129,6 +76,3 @@
 ---
 
 > Feel free to reach out if you want to collaborate or just chat about tech! 🚀
-
----
-
