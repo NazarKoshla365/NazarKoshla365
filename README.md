@@ -9,16 +9,14 @@
 Hi, I'm Nazar — a passionate Front-End developer from Reggio Calabria, Italy 🇮🇹  
 I love turning ideas into clean, functional code and beautiful UIs.
 
-- 🎓 17-year-old Front-End developer based in Reggio Calabria, Italy 🇮🇹  
-- 🚀 Passionate about creating performant, accessible, and scalable web applications  
-- 💡 Excited by the constantly evolving front-end ecosystem and new technologies  
-- 🎯 Eager to contribute to impactful projects and constantly improve my skills  
-- 🤝 Open to opportunities, challenges, and collaborations that help me grow and make an impact
-- 🌱 Believe that continuous learning and practice are the keys to success
-- 🎨 Care about user experience and making interfaces that people love to use
-- 🏋️‍♂️ In my free time, I enjoy working out at the gym to stay active and focused
-- 🎹 I also play piano, which helps me relax and be creative outside of coding
-- 📚 Outside of work, I’m interested in technology trends and creative projects
+- 💡 Enthusiast of the modern front-end ecosystem and new technologies
+- 🎯 Motivated to grow through real-world projects and creative challenges
+- 🎨 Passionate about UI/UX and building experiences people enjoy
+- 🧠 Curious by nature — always learning and improving
+- 🤝 Open to new opportunities, challenges, and meaningful collaborations
+- 🏋️‍♂️ Stay active with gym workouts
+- 🎹 Relax through piano and music
+- 📚 Love tech trends, creative coding, and side projects
 
 ---
 
