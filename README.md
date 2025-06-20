@@ -1,4 +1,4 @@
-#Nazar Koshla — Front-End Developer
+# Nazar Koshla — Front-End Developer
 
 *Crafting fast, accessible, and beautiful web experiences*
 
