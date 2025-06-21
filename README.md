@@ -24,7 +24,7 @@ I love turning ideas into clean, functional code and beautiful UIs.
 
 - [**Web Chat Reale**](https://github.com/NazarKoshla365/chat-app-realtime-nextjs) — Real-time chat app with Google Auth & JWT. Built with Next.js, Tailwind CSS, Node.js, Socket.io, and MongoDB.  
   *Features:* private messaging, online status, and responsive UI.  
-  *Status:* Production-ready, deployed on Vercel.
+  
 
 - [**Mobile Music Player**](https://github.com/NazarKoshla365/music-player-speedy) — Cross-platform music player app with play/pause, speed control, and playlist management. Built using React Native & Expo.  
   *Goal:* Smooth UX with native performance.
@@ -47,6 +47,7 @@ I love turning ideas into clean, functional code and beautiful UIs.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" />
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="48" height="48" />
   <img src="https://vitejs.dev/logo.svg" alt="Vite" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" />
 </div>
